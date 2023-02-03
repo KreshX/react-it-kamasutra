@@ -1,0 +1,10 @@
+.friends__img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.friend__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

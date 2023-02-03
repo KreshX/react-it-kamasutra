@@ -2,3 +2,8 @@
     background-color: #57e892;
     grid-area: c;
 }
+
+.dialogElement {
+    margin-bottom: 5px;
+}
+
